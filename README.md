@@ -1,3 +1,3 @@
 # r-learning
 Learning R language for Data Sciences
-print ("My first code")
+print ("My first testing program")
